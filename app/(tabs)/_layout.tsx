@@ -27,7 +27,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Boda Naveen Login',
+          title: 'Login',
           tabBarIcon: ({ size, color }) => (
             <User size={size} color={color} strokeWidth={2} />
           ),
